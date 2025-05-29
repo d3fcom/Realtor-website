@@ -76,7 +76,7 @@ This ensures your international clients can browse your entire website in their 
 └── README.md
 ```
 
-## 🎯 About This Project
+##  About This Project
 
 This template was created by **Developer: Weis** as a demonstration of modern web development capabilities. It showcases skills in:
 
