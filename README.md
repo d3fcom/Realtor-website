@@ -2,7 +2,7 @@
 
 A professional, multilingual website template designed for real estate agents. Built with modern web technologies and ready to use for your business.
 
-## 🌟 Features
+## Features
 
 - **Complete Multilingual Support**: Full website language switching between Spanish, French, and English with a convenient globe button selector
 - **Dynamic Language Switching**: All content (navigation, hero sections, about text, property details, contact forms, testimonials) automatically changes language when user selects their preference
@@ -12,7 +12,7 @@ A professional, multilingual website template designed for real estate agents. B
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile
 - **Modern UI**: Clean, professional design using Tailwind CSS and shadcn/ui
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: React 18, TypeScript, Tailwind CSS
 - **Backend**: Express.js, Node.js
@@ -21,7 +21,7 @@ A professional, multilingual website template designed for real estate agents. B
 - **Forms**: React Hook Form with Zod validation
 - **State Management**: TanStack Query
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone this repository
 2. Install dependencies:
