@@ -1,7 +1,7 @@
-# Real Estate Agent Website Template / by weis.
+# Real Estate Agent Website Template .
 
 A professional, multilingual Realtor website template designed for real estate agents. Built in TypeScript and ready to use for your business.
-
+/ by weis. / 2025 
 ## Features
 
 - **Complete Multilingual Support**: Full website language switching between Spanish, French, and English with a convenient globe button selector
